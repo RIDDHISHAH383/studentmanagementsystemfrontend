@@ -9,6 +9,7 @@ export default function Student() {
       <Card>
         <Form>
           <Card.Header>Add Student Information</Card.Header>
+          <Card.Header><strong>Add Student Information</strong></Card.Header>
           <Card.Body>
             <Form.Group className="mb-3" controlId="formBasicEmail">
               <Form.Label>Id</Form.Label>
